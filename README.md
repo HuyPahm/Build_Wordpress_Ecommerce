@@ -1,6 +1,6 @@
-# 👋 Hi bros i'm Huysuoicat!
+👋 I'm Skullcoconut!
 
-🎯 Mục tiêu: Tạo ra một giao diện web đầy đủ chức năng phục vụ cho khách hàng và hỗ trợ quản trị viên cho sản phẩm nhà Hasaki.
+🎯 Mục tiêu: Tạo ra một giao diện web đầy đủ chức năng phục vụ khách hàng và hỗ trợ quản trị viên cho sản phẩm nhà Hasaki.
 
 **Người dùng**: 
 - Tại trang homepage có tìm kiếm sản phẩm và các mục lọc sản phẩm như thương hiệu, hàng mới về, bán chạy
@@ -20,17 +20,19 @@ Giỏ hàng: Cổng thanh toán.
 - Báo cáo phân tích doanh thu.
 ---
 
-## 🛠️ Lộ trình chiến lược & Công cụ
+## 🛠️ Chiến lược & Công cụ
 - 📝 Lập biểu đồ **BFD(mức ngữ cảnh), DFD (các cấp), ERD(mức logic)** và xây dựng web thông qua WordPress, WooCommerce.
 - 🎨 Theme tùy biến dựa theo đặc tả.
-- 🔌 Plugin quản lý bán hàng, SEO, bảo mật.
+- 🔌 Plugin quản lý bán hàng, SEO, bảo mật (?).
 - 🗄️ Quản lý cơ sở dữ liệu.
-- ☁️ Triển khai (..)
+- ☁️ Triển khai (?)
 
 ---
 
-## 🚀  BFD
+## 🚀  **BFD mức ngữ cảnh**
 ![z7032146414186_9bcc241c31d37842b12e2a6d4bb8055a](https://github.com/user-attachments/assets/c0d6c373-e0d2-488c-9069-75e96c169bd9)
+
+
 
 
 ---
