@@ -2,7 +2,7 @@
 
 🎯 Mục tiêu: Xây dựng hệ thống quản lý Hasaki để phục vụ cả khách hàng và cả quản trị viên trong việc mua sắm, quản lý sản phẩm, chăm sóc khách hàng và vận hành kinh doanh.
 
-## 👤 1. Quản lý người dùng
+##  1. Quản lý người dùng
 
 - Khách hàng có thể đăng ký và đăng nhập tài khoản để sử dụng các dịch vụ của hệ thống (như họ tên, email, số điện thoại, địa chỉ, lịch sử mua hàng, wishlist) .
 
@@ -12,7 +12,7 @@
 
 - Hệ thống cung cấp chat bot và mục hỗ trợ.
 
-## 📦 2. Quản lý sản phẩm
+##  2. Quản lý sản phẩm
 
 - Quản lý danh mục sản phẩm và thông tin sản phẩm (hệ thống kinh doanh nhiều loại sản phẩm khác nhau do đó cần)
 
@@ -22,7 +22,7 @@
 
 - Hệ thống cho phép quản lý tồn kho và cập nhật tự động khi phát sinh giao dịch.
 
-## 🛍️ 3. Quản lý đơn hàng
+##  3. Quản lý đơn hàng
 
 - Khách hàng lựa chọn sản phẩm và đưa vào giỏ hàng (cart).
 
@@ -33,32 +33,32 @@
 
 - Đơn hàng hợp lệ sẽ được chuyển sang bước thanh toán và giao hàng.
 
-## 💳 4. Thanh toán & Giao hàng
+##  4. Thanh toán & Giao hàng
 
 - Hệ thống hỗ trợ nhiều cổng thanh toán trực tuyến (thẻ ngân hàng, ví điện tử…) hoặc thanh toán khi nhận hàng.
 - Nếu khách hàng hủy đơn hoặc đổi trả, hệ thống ghi nhận lý do và tiến hành hoàn tiền theo chính sách.
 
-## 🎁 5. Quản lý khuyến mãi
+##  5. Quản lý khuyến mãi
 
 - Quản trị viên có thể thiết lập và quản lý các chương trình khuyến mãi.
 - Hệ thống tự động kiểm tra điều kiện và áp dụng khuyến mãi khi khách thanh toán.
 
-## 🔧 6. Quản lý bảo hành & Đổi trả
+##  6. Quản lý bảo hành & Đổi trả
 
 - Khách hàng có thể yêu cầu bảo hành hoặc đổi trả theo chính sách.
 - Khách hàng có thể gửi yêu cầu bảo hành hoặc tra cứu trạng thái bảo hành trực tuyến.
 - 
-## 📊 7. Báo cáo & Phân tích
+##  7. Báo cáo & Phân tích
 - Báo cáo doanh thu theo ngày, tuần, tháng.
 - Báo cáo tồn kho sản phẩm.
   
-## 🔐 8. Quản trị hệ thống
+##  8. Quản trị hệ thống
 - Quản lý thông tin khách hàng: tìm kiếm theo mã khách hàng, xem lịch sử giao dịch.
 - Quản lý phân quyền: phân quyền cho các tài khoản quản trị.
 
 ---
 
-## 🛠️ Chiến lược & Công cụ
+##  Chiến lược & Công cụ
 - 📝 Lập biểu đồ **BFD(mức ngữ cảnh), DFD (các cấp), ERD(mức logic)** và xây dựng web thông qua WordPress, WooCommerce.
 - 🎨 Theme tùy biến dựa theo đặc tả.
 - 🔌 Plugin quản lý bán hàng, SEO, bảo mật (?).
@@ -68,9 +68,10 @@
 ---
 
 ## 🚀  **BFD mức ngữ cảnh**
-![z7032146414186_9bcc241c31d37842b12e2a6d4bb8055a](https://github.com/user-attachments/assets/c0d6c373-e0d2-488c-9069-75e96c169bd9)
 
 
+
+<img width="1754" height="1242" alt="update bfd" src="https://github.com/user-attachments/assets/9ee46917-e83d-422a-bf66-a477ee94bdfc" />
 
 
 ---
