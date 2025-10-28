@@ -71,7 +71,30 @@
 
 
 
-<img width="1754" height="1242" alt="update bfd" src="https://github.com/user-attachments/assets/9ee46917-e83d-422a-bf66-a477ee94bdfc" />
+<img width="1106" height="428" alt="image" src="https://github.com/user-attachments/assets/0c4b154c-5ea5-4b02-bf2b-18cecab152a9" />
+
+DFD mức 0:
+
+<img width="1108" height="989" alt="image" src="https://github.com/user-attachments/assets/a7113b4b-17d7-4ad3-b1a6-1a9e1b0dd07b" />
+
+DFD mức 1:
+
+<img width="1107" height="985" alt="image" src="https://github.com/user-attachments/assets/83bcfb38-9f00-4af9-ac24-bae4a1c9e8e2" />
+
+DFD mức 2(Quản lý khách hàng):
+<img width="1107" height="634" alt="image" src="https://github.com/user-attachments/assets/2ecef440-f9e2-43e4-b37c-9501a1275294" />
+
+DFD mức 2(Quản lý kho):
+
+<img width="1107" height="870" alt="image" src="https://github.com/user-attachments/assets/dbd9a26d-042b-49d1-ac54-f66e40a367ea" />
+
+DFD mức 2(Quản lý đơn hàng):
+
+<img width="1107" height="716" alt="image" src="https://github.com/user-attachments/assets/52a57216-b981-4e27-8824-e43fb0272bc3" />
+
+
+
+
 
 
 ---
