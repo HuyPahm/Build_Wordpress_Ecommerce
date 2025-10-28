@@ -1,6 +1,21 @@
 # 👋 Huy-commerce
 
-🎯 Mục tiêu: Xây dựng hệ thống quản lý Hasaki để phục vụ cả khách hàng và cả quản trị viên trong việc mua sắm, quản lý sản phẩm, chăm sóc khách hàng và vận hành kinh doanh.
+Đặc tả: 
+Dự án: Hệ thống quản lý thương mại điện tử My Chicken 
+cung cấp một nền tảng trực tuyến cho phép khách hàng xem, chọn mua, và thanh toán cho các sản phẩm gia cầm. Hệ thống cũng cung cấp cho quản trị viên các công cụ để quản lý sản phẩm, đơn hàng, tồn kho, khách hàng và vận hành.
+
+Hệ thống được mô hình hóa theo DFD Mức 0, bao gồm một tiến trình trung tâm và 5 tác nhân ngoài:
+
+Khách hàng: Người mua hàng.
+
+Quản trị viên: Người vận hành hệ thống.
+
+Nhà cung cấp: Nguồn nhập hàng.
+
+Cổng thanh toán: Đối tác xử lý giao dịch tài chính.
+
+Đơn vị vận chuyển: Đối tác giao hàng.
+
 
 ##  1. Quản lý người dùng
 
