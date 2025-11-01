@@ -96,6 +96,9 @@ DFD mức 1:
 
 <img width="1107" height="985" alt="image" src="https://github.com/user-attachments/assets/83bcfb38-9f00-4af9-ac24-bae4a1c9e8e2" />
 
+<img width="1107" height="850" alt="image" src="https://github.com/user-attachments/assets/e84ccbad-9828-477f-9f67-2c1644cea712" />
+
+
 DFD mức 2(Quản lý khách hàng):
 <img width="1107" height="634" alt="image" src="https://github.com/user-attachments/assets/2ecef440-f9e2-43e4-b37c-9501a1275294" />
 
@@ -106,6 +109,26 @@ DFD mức 2(Quản lý kho):
 DFD mức 2(Quản lý đơn hàng):
 
 <img width="1107" height="716" alt="image" src="https://github.com/user-attachments/assets/52a57216-b981-4e27-8824-e43fb0272bc3" />
+
+DFD mức 2(Quản lý thanh toán):
+
+<img width="1107" height="971" alt="image" src="https://github.com/user-attachments/assets/3ab8a949-f2ce-44f0-9128-ce610e3f3445" />
+
+DFD mức 2(Quản lý sản phẩm):
+
+<img width="1107" height="639" alt="image" src="https://github.com/user-attachments/assets/861f801d-6218-46c1-b52a-9ef1d7631db6" />
+
+DFD mức 2(Quản lý vận chuyển):
+
+<img width="976" height="858" alt="image" src="https://github.com/user-attachments/assets/523da73c-3ef2-4dad-8fe3-05a40fb20534" />
+
+DFD mức 2(Quản lý khuyến mãi):
+
+<img width="1107" height="505" alt="image" src="https://github.com/user-attachments/assets/ce597d84-a5dc-43d0-b357-87f7b2964cfa" />
+
+DFD mức 2(Quản lý báo cáo):
+
+<img width="924" height="424" alt="image" src="https://github.com/user-attachments/assets/0e710f75-f2ee-4797-b523-e954bcd8ce94" />
 
 
 
